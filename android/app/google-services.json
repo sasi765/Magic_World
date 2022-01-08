@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212750866086",
+    "project_id": "magic-world-48b22",
+    "storage_bucket": "magic-world-48b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212750866086:android:52624c14c0b1d513718667",
+        "android_client_info": {
+          "package_name": "com.magic_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212750866086-eoev3qqhhj4klftmp6tot0b3ek23vnr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magic_world",
+            "certificate_hash": "b77e4b397c8a14b706dbcdc500a9cd76d6c2391d"
+          }
+        },
+        {
+          "client_id": "212750866086-bnda4s32idahqk4s0lt7r8hitvqtf11d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXBS79Oqy4rybX9YdXPloTC_rtq8w1ftQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212750866086-bnda4s32idahqk4s0lt7r8hitvqtf11d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
